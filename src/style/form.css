@@ -1,0 +1,10 @@
+input{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+button{
+    display:  flex;
+padding: 10px 15px;
+    color: red;
+}
